@@ -21,8 +21,8 @@ Upload screenshot hasil dashboard kalian beserta dengan code python ke dalam rep
 
 ## Screenshot hasil dashboard
 
+![WhatsApp Image 2022-08-17 at 9 35 43 PM](https://user-images.githubusercontent.com/67363618/185629572-f24ef769-ee0a-4363-a2dd-d7b9e0eb4e33.jpeg)
 
-![WhatsApp Image 2022-08-17 at 9 35 43 PM](https://user-images.githubusercontent.com/67363618/185401415-5f787f5f-d992-4f44-a422-62af9d4f1371.jpeg)
 
+![WhatsApp Image 2022-08-17 at 9 40 10 PM](https://user-images.githubusercontent.com/67363618/185629583-7e5c798e-54ce-4bfb-9161-53590a1a1624.jpeg)
 
-![WhatsApp Image 2022-08-17 at 9 40 10 PM](https://user-images.githubusercontent.com/67363618/185401399-33d4bebd-1b22-432e-9ac0-4f9c96792e76.jpeg)
