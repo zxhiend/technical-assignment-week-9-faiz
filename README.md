@@ -1,4 +1,4 @@
-# technical-assignment-week-9-faiz
+# [technical-assignment-week-9-faiz](https://github.com/impactbyte/iot-with-python-technical-assignments/tree/main/09-IoT-Software-2)
 Repository for technical assignment week 9
 
 
